@@ -1,0 +1,30 @@
+body{
+    background-color:darkslategrey;
+    color:white;
+  
+}
+.form-data{
+    text-align: center;
+    color:black;
+
+}
+.h{
+    text-align: center;
+}
+.note{
+    text-align: center;
+    color:rgb(219, 209, 209);
+}
+.fill{
+    text-align: center;
+}
+.radio{
+padding-top: 30px;
+color:darkkhaki;
+}
+.error{
+    color:red;
+}
+a{
+    text-align: center;
+}
